@@ -1,5 +1,6 @@
 # Wene Alves
-<hr>
+
+
 Lover of the best web and mobile development technologies.
 
 Passionate about programming.
