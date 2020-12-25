@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Wene Alves. <img src="https://github.com/wenealves10/wenealves10/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/wenealves10/wenealves10/blob/main/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/wenealves10/wenealves10/blob/main/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -7,7 +7,7 @@ Lover of the best web and mobile development technologies.
 
 Passionate about programming.
 
-"Nothing in this world beats good old persistence. Talent does not. Nothing is more common than talented failures. Genius does not overcome. Unrecognized geniuses are practically a cliché. Education does not exceed. The world is full of fools. educated. Persistence and determination alone are powerful."<br><br>
+"Nothing in this world beats good old persistence. Talent does not. Nothing is more common than talented failures. Genius does not overcome. Unrecognized geniuses are practically a cliché. Education does not exceed. The world is full of fools. educated. Persistence and determination alone are powerful."
 
 - 🔭 &nbsp; I’m currently learning React Native Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
