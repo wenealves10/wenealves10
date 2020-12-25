@@ -1,5 +1,5 @@
 <h2 align="center"> Hey there! I'm Wene Alves. <img src="https://github.com/wenealves10/wenealves10/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/wenealves10/wenealves10/blob/main/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/wenealves10/wenealves10/blob/main/gif3.gif" width="250"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
