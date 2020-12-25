@@ -1,10 +1,9 @@
 <h2 align="center"> Hey there! I'm Wene Alves. <img src="https://github.com/wenealves10/wenealves10/blob/main/Hi.gif" width="25"></h2>
 <h3 align="center"><img align="center" alt="GIF" src="https://github.com/wenealves10/wenealves10/blob/main/gif3.gif" width="400"/></h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3 align="center"> 👨🏻‍💻 About Me </h3>
 
 <p>Lover of the best web and mobile development technologies.</p>
-
 <p>Passionate about programming.</p>
 
 <p>"Nothing in this world beats good old persistence. Talent does not. Nothing is more common than talented failures. Genius does not overcome. Unrecognized geniuses are practically a cliché. Education does not exceed. The world is full of fools. educated. Persistence and determination alone are powerful."</p>
@@ -24,10 +23,9 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wenealves10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Wene Alves Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wenealves10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Wene Alves Github Stats">
 
 </br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenealves10&theme=radical&title_color=8E2DE2&text_color=fff)
 
 
