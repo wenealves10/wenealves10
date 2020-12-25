@@ -3,10 +3,10 @@
 
 <h3 align="center"> 👨🏻‍💻 About Me </h3>
 
-<p align="center">Lover of the best web and mobile development technologies.
-Passionate about programming.</p>
+<p align="center">Lover of the best web and mobile development technologies.</p>
+<p align="center">Passionate about programming.</p>
 
-<p align="center">"Nothing in this world beats good old persistence. Talent does not. Nothing is more common than talented failures. Genius does not overcome. Unrecognized geniuses are practically a cliché. Education does not exceed. The world is full of fools. educated. Persistence and determination alone are powerful."</p>
+<p align="justify">"Nothing in this world beats good old persistence. Talent does not. Nothing is more common than talented failures. Genius does not overcome. Unrecognized geniuses are practically a cliché. Education does not exceed. The world is full of fools. educated. Persistence and determination alone are powerful."</p>
 
 - 🔭 &nbsp; I’m currently learning React Native Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
