@@ -27,6 +27,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenealves10&theme=radical&title_color=8E2DE2&text_color=fff" alt="Wene Alves Github Stats">
 
 <br>
+<br>
+<br>
+<br>
+<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
