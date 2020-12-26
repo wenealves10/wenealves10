@@ -1,14 +1,4 @@
 <h2 align="center"> Hey there! I'm Wene Alves. <img src="https://github.com/wenealves10/wenealves10/blob/main/Hi.gif" width="25"></h2>
-![Adonisjs](https://img.shields.io/badge/-Adonisjs-220052?style=flat&logoColor=fff&logo=adonisjs)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-
 <h3 align="center"> 👨🏻‍💻 About Me </h3>
 <p align="center">Passionate about programming.</p>
 <p align="center">Lover of the best web and mobile development technologies.</p>
@@ -27,7 +17,7 @@
  
 - 🌐 &nbsp; Android | React Native | React Js | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git | ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp; | kubernetes
 
 <br>
 
