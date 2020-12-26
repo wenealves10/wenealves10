@@ -15,16 +15,15 @@
 
 <h3>🛠 Tech Stack</h3>
  
-- 🌐 &nbsp; Android | React Native | React Js | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | MongoDB
+- 🌐 &nbsp; Android | React Native | React.JS | HTML | CSS | JavaScript | Node.JS
+- 🛢 &nbsp; MySQL | Firebase | MongoDB 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes
 
 
    ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
    ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
    ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-   ![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
    ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
 
 
