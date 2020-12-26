@@ -18,7 +18,7 @@
  
 - 🌐 &nbsp; Android | React Native | React Js | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes
 
 <br>
 
