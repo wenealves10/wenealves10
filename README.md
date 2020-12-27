@@ -6,7 +6,7 @@
 
 <p align="justify">"Nothing in this world beats good old persistence. Talent does not. Nothing is more common than talented failures. Genius does not overcome. Unrecognized geniuses are practically a cliché. Education does not exceed. The world is full of fools. educated. Persistence and determination alone are powerful."</p>
 
-- 🔭 &nbsp; I’m currently learning React Native Application Development
+- 🔭 &nbsp; I’m currently learning Node.js and React.js for web applications.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer, Front End and Back End developer.
