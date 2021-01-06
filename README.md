@@ -17,7 +17,7 @@
  
 - 🌐 &nbsp; Android | React Native | React.JS | HTML | CSS | JavaScript | Node.JS
 - 🛢 &nbsp; MySQL | Firebase | MongoDB 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes 
 
 
     ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
