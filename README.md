@@ -24,7 +24,7 @@
     ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
     ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-    ![ReactJs](https://img.shields.io/badge/-ReactJS-13aa52?style=flat&logoColor=fff&logo=react-js)&nbsp;
+    ![ReactJs](https://aleen42.github.io/badges/src/react.svg)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
 
 
