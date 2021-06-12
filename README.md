@@ -27,6 +27,7 @@
     ![ReactJs](https://aleen42.github.io/badges/src/react.svg)&nbsp;
     ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
+    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 
 <br>
