@@ -15,9 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | Node.JS | TypeScript
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB 
-- 🔧 &nbsp; Docker | kubernetes | Redis
+- 🌐 &nbsp;
 
  
     ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
