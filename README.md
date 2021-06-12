@@ -15,8 +15,8 @@
 
 <h3>🛠 Tech Stack</h3>
  
-- 🌐 &nbsp; Android | React Native | React.JS | HTML | CSS | JavaScript | Node.JS
-- 🛢 &nbsp; MySQL | Firebase | MongoDB 
+- 🌐 &nbsp; JavaScript | Node.JS | TypeScript
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes 
 
 
