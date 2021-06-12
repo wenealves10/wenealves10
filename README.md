@@ -17,7 +17,7 @@
  
 - 🌐 &nbsp; JavaScript | Node.JS | TypeScript
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Docker | kubernetes 
+- 🔧 &nbsp; Docker | kubernetes | Redis
 
 
     ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
