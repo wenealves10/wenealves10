@@ -44,7 +44,7 @@
     ![Ubunto](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
     ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
     ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-    ![AMD](https://img.shields.io/badge/AMD-Radeon_RX_3500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
+    ![AMD](https://img.shields.io/badge/AMD-Ryzen™_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
 
 
 <br>
